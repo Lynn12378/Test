@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CarbonAPI",
+            "request": "launch",
+            "mainClass": "com.mis_final.CarbonAPI.CarbonAPI",
+            "projectName": "CarbonAPI",
+            "classpath": [
+                "${workspaceFolder}/build/classes/java/main",
+                "${workspaceFolder}/build/resources/main", 
+                "${workspaceFolder}/build/libs/*"
+            ]
+        }
+    ]
+}

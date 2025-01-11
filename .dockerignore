@@ -1,0 +1,6 @@
+.git
+.gitignore
+.gradle
+build
+!build/libs/*.jar
+README.mds
