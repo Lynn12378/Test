@@ -1,5 +1,10 @@
 # in-carbonapi
+執行須在終端機輸入指令:
 
+    ./gredlew build
+
+    ./gredlew bootrun
+    
 之前的配置:
 
     -src
